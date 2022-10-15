@@ -3,7 +3,7 @@
 <!--
 **helmipradita/helmipradita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![@helmipradita's Holopin board](https://holopin.io/api/user/board?user=helmipradita)](https://holopin.io/@helmipradita)
+[![@helmipradita's Holopin board](https://holopin.me/helmipradita)](https://holopin.io/@helmipradita)
 
 Here are some ideas to get you started:
 
