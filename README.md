@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning Back End Web Programming 
+- 🌱 I’m currently learning Backend Web Programming 
 - 📫 How to reach me: helmipraditaa@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🕹️ I like strategy games, 📽️ watching movies and 😴 sleeping
