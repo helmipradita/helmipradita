@@ -1,4 +1,6 @@
-[![@helmipradita's Holopin board](https://holopin.me/helmipradita)](https://holopin.io/@helmipradita)
+
+[![An image of @helmipradita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/helmipradita)](https://holopin.io/@helmipradita)
+
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">, I'm Helmi Pradita.</h1>
 <h3 align="center">console.log('Hello, World')</h3>
